@@ -21,6 +21,13 @@ CrewAI explores advanced LLM-powered agentic workflows, including:
 3. **Set up API keys:**  
 Create a `.env` file with your OpenAI, Google, and other API keys.
 4. **Run an example:**
+   
+## Example Use Case
+> **AI Newsletter Agent:**  
+> Scrapes trending topics via Google SERP and Reddit, summarizes using GPT-4, outputs a ready-to-publish newsletter.
+
+## 📁 Repo Structure
+
 
 ## Tech Stack
 - Python 3.10+
@@ -28,9 +35,6 @@ Create a `.env` file with your OpenAI, Google, and other API keys.
 - BeautifulSoup, Requests, Pandas
 - Logging, dotenv
 
-## Results & Next Steps
-- [Brief results: “Automated newsletters generated for 5 domains, saved 10+ manual hours per week”]
-- [Outline roadmap if you want: “Planned: More advanced agent collaboration & plugin support”]
 
 ## 🤝 Contact
 *Girish Kumar Ramachandra – AI Agentic Systems Specialist*  
